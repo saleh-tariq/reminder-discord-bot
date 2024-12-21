@@ -1,0 +1,20 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "censor-sensor": "^1.0.6",
+    "character.ai": "github:RichardDorian/node-character.ai",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "node_characterai": "^1.2.7",
+    "nodemon": "^3.1.4"
+  },
+  "description": ""
+}
